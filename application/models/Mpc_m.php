@@ -38,152 +38,158 @@ class Mpc_m extends CI_Model {
 		), 
 		'tekst0' => array(
 			'field' => 'tekst0', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst1' => array(
 			'field' => 'tekst1', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		),
 		'tekst2' => array(
 			'field' => 'tekst2', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst3' => array(
 			'field' => 'tekst3', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst4' => array(
 			'field' => 'tekst4', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst5' => array(
 			'field' => 'tekst5', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst6' => array(
 			'field' => 'tekst6', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst7' => array(
 			'field' => 'tekst7', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst8' => array(
 			'field' => 'tekst8', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst9' => array(
 			'field' => 'tekst9', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst10' => array(
 			'field' => 'tekst10', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst11' => array(
 			'field' => 'tekst11', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst12' => array(
 			'field' => 'tekst12', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst13' => array(
 			'field' => 'tekst13', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst14' => array(
 			'field' => 'tekst14', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst15' => array(
 			'field' => 'tekst15', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst16' => array(
 			'field' => 'tekst16', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst17' => array(
 			'field' => 'tekst17', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst18' => array(
 			'field' => 'tekst18',
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst19' => array(
 			'field' => 'tekst19', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst20' => array(
 			'field' => 'tekst20', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst21' => array(
 			'field' => 'tekst21', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst22' => array(
 			'field' => 'tekst22', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst23' => array(
 			'field' => 'tekst23', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst24' => array(
 			'field' => 'tekst24', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst25' => array(
 			'field' => 'tekst25', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst26' => array(
 			'field' => 'tekst26', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst27' => array(
 			'field' => 'tekst27', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst28' => array(
 			'field' => 'tekst28', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst29' => array(
 			'field' => 'tekst29', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst30' => array(
 			'field' => 'tekst30', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst31' => array(
 			'field' => 'tekst31', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst32' => array(
 			'field' => 'tekst32', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst33' => array(
 			'field' => 'tekst33', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst34' => array(
 			'field' => 'tekst34', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		), 
 		'tekst35' => array(
 			'field' => 'tekst35', 
-			'rules' => 'trim|xss_clean|max_length[20]|alpha'
+			'rules' => 'trim|xss_clean|max_length[20]'
 		),  
 	);
 
 	public function prepare()
 	{
+		$config = array(
+			'upload_path' => 'assets/music/',
+			'allowed_types' => 'mp3|ogg|aac|wav',
+			'max_size' => 5000,
+			'file_name' => do_hash(random_string('alpha', 16)),
+		);
 		$this->load->library('upload', $config);
 		$data = array();
 		$tmp = array();
@@ -203,7 +209,8 @@ class Mpc_m extends CI_Model {
 					else
 					{
 						$this->session->set_userdata('message', $tmp['error']);
-						redirect(site_url('mpc/create_new'));
+						//redirect(site_url('mpc/create_new'));
+						var_dump($tmp['error']);
 					}	
 				}
 			}
@@ -235,7 +242,7 @@ class Mpc_m extends CI_Model {
 	private function do_upload($i)
 	{ 
 		$config = array(
-			'upload_path' => realpath(APPPATH . '../assets/music/'),
+			'upload_path' => 'assets/music/',
 			'allowed_types' => 'mp3|ogg|aac|wav',
 			'max_size' => 5000,
 			'file_name' => do_hash(random_string('alpha', 16)),
