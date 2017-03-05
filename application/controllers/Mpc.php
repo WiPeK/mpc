@@ -64,6 +64,7 @@ class Mpc extends Frontend_Controller {
 		}
 		else
 		{
+			$this->session->set_userdata('message', 'Wpisane parametry są nieprawidłowe. Spróbuj ponownie.');
 			redirect(site_url('mpc/create_new'));
 		}
 	}
